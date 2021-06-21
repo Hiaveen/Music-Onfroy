@@ -2,7 +2,7 @@
   "name": "Music Player Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ZauteKm/MusicBot",
+  "repository": "https://github.com/iqthon/Music-Onfroy",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
