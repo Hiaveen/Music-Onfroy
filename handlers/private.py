@@ -22,7 +22,7 @@ async def start(_, message: Message):
                         "🛠 لطلب المساعده 🛠", url="https://t.me/Muamal")
                   ],[
                     InlineKeyboardButton(
-                        "💬 قناة للشروحات", url="https://t.me/ZzZzBB"
+                        "💬 قناة للشروحات", url="https://t.me/TR_RR"
                     ),
                     InlineKeyboardButton(
                         "🔊 قناتي", url="https://t.me/ZzZzBB"
